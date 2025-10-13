@@ -1,6 +1,7 @@
 public class grade {
      float Mark TM;
      char grade ;
+
      grade(float TM){
         TM = x;
      }
@@ -18,4 +19,5 @@ void CalculateGrade()
         this.grade = 'F';
     }else this.grade = I;
 }
+public class grade
 }
